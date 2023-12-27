@@ -91,7 +91,7 @@
     "@deadlyjack/ajax": "^1.2.6",
     "@ungap/custom-elements": "^1.1.1",
     "autosize": "^5.0.2",
-    "axios": "^0.27.2",
+    "axios": "^1.6.3",
     "core-js": "^3.26.1",
     "crypto-js": "^4.1.1",
     "esprima": "^4.0.1",
